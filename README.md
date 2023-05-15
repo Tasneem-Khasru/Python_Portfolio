@@ -628,7 +628,7 @@ print('weight i kilograms is now:', weight_kg)
     weight i kilograms is now: 65.0
 
 
-## Analyzing Patient Data
+## Analyzing Patient Data (1, 2, and 3)
 
 ```python
 import numpy
